@@ -1,6 +1,7 @@
 # Visualizing m1 versus m3 traffic data with CesiumJS
 
 Generation of a CZML file from two so6 air traffic files: last filled flight plan (m1) and flight plan enhanced with radar data (m3)
+
 This CZML file can be read by CesiumJS. The traffic is represented by :
 * static objects (trajectories)
 * dynamic objects (tracks)
